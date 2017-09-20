@@ -12,6 +12,6 @@ spec:
     spec:
       containers:
       - name: "web-app"
-        image: beekman9527/workload:latest
+        image: beekman9527/webapp:latest
         ports: 
         - containerPort: 8080
